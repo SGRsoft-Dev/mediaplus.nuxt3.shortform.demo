@@ -225,7 +225,7 @@ onMounted(()=>{
 
 	setTimeout(()=>{
 		uiStart.value = true;
-	},400);
+	},1000);
 
 })
 
