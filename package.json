@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port=3100",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxthq/ui": "^2.7.0",
+    "@types/node": "^18.17.3",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@phosphor-icons/vue": "^2.1.6",
+    "dayjs": "^1.11.9",
+    "hls.js": "^1.4.12",
+    "lodash": "^4.17.21",
+    "nuxt-swiper": "^1.2.2",
+    "ua-parser-js": "^1.0.36"
+  }
+}
