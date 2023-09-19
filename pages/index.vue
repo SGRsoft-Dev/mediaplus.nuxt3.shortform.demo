@@ -1,7 +1,7 @@
 <template>
-	<div class="fixed bottom-0 left-0 p-2 bg-black text-white text-[12px]">
+<!--	<div class="fixed bottom-0 left-0 p-2 bg-black text-white text-[12px]">
 		 scrollRunLock:{{scrollRunLock}} / SLIDE_CHANGE:{{SLIDE_CHANGE}} / SHORTS_IDX:{{SHORTS_IDX}} / deltaY:{{deltaY}}
-	</div>
+	</div>-->
 
 	<div class="fixed top-0 left-0 z-[10] p-3 ">
 		<a href="/">
