@@ -6,7 +6,7 @@ export default defineNuxtConfig({
         head: {
             charset: 'utf-8',
             viewport: 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0',
-            title: 'VPE Demos',
+            title: 'VIDEO24 Shortform Demos',
             link: [
                 { rel: 'icon', type: 'image/x-icon', href: '/app-union.png' }
             ],
