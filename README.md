@@ -5,7 +5,7 @@ VIDEO24를 이용한 Shortform 플랫폼을 구현한 FrontEnd 데모코드입�
 
 
 
-![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202309/1a30600d5f003f5d2f30c18b9b7c7fe8.png)
+![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202310/f4bc8f7e3e618cf1f869ec56cc3f917c.png)
 
 
 
