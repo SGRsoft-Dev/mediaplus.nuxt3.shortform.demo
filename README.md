@@ -5,7 +5,7 @@ VIDEO24를 이용한 Shortform 플랫폼을 구현한 FrontEnd 데모코드입�
 
 
 
-![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202310/f4bc8f7e3e618cf1f869ec56cc3f917c.png)
+![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202310/4f8b9055fd11fe2a1595586c52a7ec29.png)
 
 
 
@@ -19,7 +19,6 @@ VIDEO24를 이용한 Shortform 플랫폼을 구현한 FrontEnd 데모코드입�
 
 *** 
 
-![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202308/851b6ea05f1fcc1cb827d841ca32346d.png)
 
 # VIDEO24 for NAVERCLOUD PLATFORM
 VIDEO24는 네이버클라우드 플랫폼에서 동작하는 클라우드 네이티브앱입니다.
