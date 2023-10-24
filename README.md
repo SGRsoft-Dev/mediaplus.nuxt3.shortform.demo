@@ -5,20 +5,21 @@ VIDEO24를 이용한 Shortform 플랫폼을 구현한 FrontEnd 데모코드입�
 
 
 
-![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202310/4f8b9055fd11fe2a1595586c52a7ec29.png)
+![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202310/f4bc8f7e3e618cf1f869ec56cc3f917c.png)
 
 
 
 ## 데모페이지
-[Shortform 플랫폼](https://VIDEO24-shortform-nuxt3-demo.web.app/)
+[Shortform 플랫폼](https://mediaplus-shortform-nuxt3-demo.web.app/)
 
 
 ## 데모페이지 소스코드
-[https://github.com/SGRsoft-Dev/VIDEO24.nuxt3.shortform.demo](https://github.com/SGRsoft-Dev/VIDEO24.nuxt3.shortform.demo)
+[https://github.com/SGRsoft-Dev/mediaplus.nuxt3.shortform.demo](https://github.com/SGRsoft-Dev/mediaplus.nuxt3.shortform.demo)
 
 
 *** 
 
+![](https://nnbkegvqsbcu5297614.cdn.ntruss.com/profile/202310/4f8b9055fd11fe2a1595586c52a7ec29.png)
 
 # VIDEO24 for NAVERCLOUD PLATFORM
 VIDEO24는 네이버클라우드 플랫폼에서 동작하는 클라우드 네이티브앱입니다.
